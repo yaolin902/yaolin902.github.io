@@ -49,7 +49,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: false
+search_enabled: true
 socials_in_search: true
 bib_search: true
 
@@ -134,8 +134,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: blog # blog_name will be displayed in your blog page
-blog_description: things I want to share to the world
+blog_name: # blog_name will be displayed in your blog page
+blog_description: blog
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
